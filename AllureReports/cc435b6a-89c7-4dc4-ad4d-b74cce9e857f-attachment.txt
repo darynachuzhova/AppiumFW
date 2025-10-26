@@ -1,0 +1,5 @@
+🚀 Starting Appium session...
+✅ Appium session started and app launched
+🚀 App is launched successfully
+✅ Test completed
+🧹 Closing Appium session
