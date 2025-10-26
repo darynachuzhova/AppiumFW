@@ -1,0 +1,7 @@
+pytest
+Appium-Python-Client
+pytest-html
+pytest-allure-adaptor
+allure-pytest
+openpyxl
+requests
